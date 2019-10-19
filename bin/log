@@ -1,0 +1,15 @@
+INode: 0 a 1 4
+INode: 1 c 2 3
+TNode: 1
+TNode: 0
+INode: 4 b 5 6
+INode: 5 c 7 1
+INode: 7 c 8 9
+TNode: 3
+TNode: 2
+INode: 1 c 2 3
+TNode: 1
+TNode: 0
+INode: 6 c 9 3
+TNode: 2
+TNode: 0
